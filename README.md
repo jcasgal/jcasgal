@@ -1,4 +1,5 @@
-## Hi there 👋
+## Este es un repositorio especial, es el mío personal.
+### Indico las cosas que mas me gustan, mis prefrencias...
 
 <!--
 **jcasgal/jcasgal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
